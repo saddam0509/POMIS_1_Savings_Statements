@@ -12,6 +12,10 @@
       <Name>POMIS_1_1B.rdl</Name>
       <FullPath>POMIS_1_1B.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>POMIS_1_1C.rdl</Name>
+      <FullPath>POMIS_1_1C.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
