@@ -2171,7 +2171,7 @@
             <DataSetName>DataSet1</DataSetName>
             <Top>0.40278in</Top>
             <Height>1.52778in</Height>
-            <Width>7.20833in</Width>
+            <Width>7.20834in</Width>
             <ZIndex>1</ZIndex>
             <Style>
               <Border>
@@ -2182,8 +2182,8 @@
           <Subreport Name="Subreport1">
             <ReportName>POMIS_1_1C</ReportName>
             <Top>1.93056in</Top>
-            <Height>3.00569in</Height>
-            <Width>7.20833in</Width>
+            <Height>0.58333in</Height>
+            <Width>7.20834in</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
@@ -2192,10 +2192,10 @@
             </Style>
           </Subreport>
         </ReportItems>
-        <Height>5.06125in</Height>
+        <Height>2.51389in</Height>
         <Style />
       </Body>
-      <Width>7.3125in</Width>
+      <Width>7.23959in</Width>
       <Page>
         <PageHeight>11.69in</PageHeight>
         <PageWidth>8.27in</PageWidth>
